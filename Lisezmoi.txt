@@ -1,0 +1,2 @@
+/api/réservations/
+/api/enregistrement/
